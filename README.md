@@ -5,9 +5,9 @@
 
 - 🔭 I've recently worked on [PharmaGC](https://github.com/TeamOGC)
 
-- 🌱I'd like to learn on my free time **Rust and Go**
-
 - 👯 My last project was [TPTP](https://tptp.vercel.app)
+
+- 🌱I'd like to learn on my free time **Rust and Go**
 
 - 🎓I'm interested in studying **AI, ML and Data Science**
 
