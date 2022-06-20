@@ -13,7 +13,6 @@
 
 - ⚡ Favorite Quote **Society grows great when old men plant trees the shade of which they will never sit on**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
